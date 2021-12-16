@@ -1,7 +1,7 @@
 # Pacmen
 ## Title of the project: 
-Bouncing pacmen
-<img src= "pacman1.png" width='300'/>
+### Bouncing pacmen
+<img src= "pacman1.png" width='100'/>
 
 ## Description of the project:
 Pacmen bounces between browser width and height.
